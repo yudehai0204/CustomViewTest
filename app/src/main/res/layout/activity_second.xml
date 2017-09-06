@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.login.exampleproject.SecondActivtiy">
+    <com.example.login.exampleproject.view.JiepingView
+        android:id="@+id/view8"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></com.example.login.exampleproject.view.JiepingView>
+    <com.example.login.exampleproject.view.ReflectView
+        android:id="@+id/view1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        >
+        </com.example.login.exampleproject.view.ReflectView>
+    <com.example.login.exampleproject.view.ImageViewMatrix
+        android:id="@+id/view2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="matrix"
+        android:visibility="gone"
+        />
+    <com.example.login.exampleproject.view.BitmapMeshView
+        android:id="@+id/view3"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <com.example.login.exampleproject.view.BitmapMeshView2
+        android:id="@+id/view4"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <com.example.login.exampleproject.view.CanvasView
+        android:id="@+id/view5"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <com.example.login.exampleproject.view.PathView
+        android:id="@+id/view6"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <com.example.login.exampleproject.view.QueToView
+        android:id="@+id/view7"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+
+
+</RelativeLayout>
