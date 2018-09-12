@@ -81,7 +81,7 @@
 - 数据库相关：MySQL/SQLite
 - 单元测试：leakcanary,MAT
 
-#自我评价
+# 自我评价
 
 - 熟练运用Material Design组件、自定义控件等。
 - 具备良好的职业素养和团队协作精神，以及较强的学习和交流能力。
