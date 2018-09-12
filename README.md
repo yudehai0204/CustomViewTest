@@ -10,7 +10,7 @@
 # 个人信息
 
  - 于德海/男/1992
- - 本科
+ - 大专
  - 工作年限：4年
  - 技术博客：https://blog.csdn.net/a940659387
  - GitHub：https://github.com/yudehai0204
@@ -25,12 +25,22 @@
 
 ## 北京易百送网络科技有限公司 （ 2015年4月 ~ 至今）
 
-### 闪电蚂蚁
+### 闪电蚂蚁 (2017.11-今)
 独立开发,采用mvc+okhttp+glide+Eventbus 作为架构，项目适配全面屏手机，最低支持5.0（API 21）系统手机。大多页面已集成转场动画。部分Dialog 也加载LayoutAnimator 且适配statusbar。
 
+### 亿林学堂(2018.8-今)
+独立开发，用原有接口从新写的一个app，教育类型，集成直播（网易云）;
 
-### 白送
-负责我的以及聊天模块的开发，聊天集成环信。难点（表示EaseUi 写的是真的乱）改代码比较难，耦合性太高，简单说就是```牵一发而动全身```。
+
+### 白送（2015.4-2017.10 已停止维护）
+负责我的以及聊天模块的开发，聊天集成环信。难点（表示EaseUi 写的是真的乱）改代码比较难，耦合性太高，简单说就是```牵一发而动全身```。 
+
+###下载地址
+
+ - 闪电蚂蚁: https://www.lightningant.com/Home/DownloadApk
+ - 亿林学堂: http://xiaochengxu-ajihua.oss-cn-hangzhou.aliyuncs.com/app/app-release.apk
+ - 白送: 应用宝等市场直接搜索"白送"即可
+
 
 
  
