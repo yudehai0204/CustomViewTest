@@ -72,7 +72,7 @@
 - Android开发：Android,Java,Kotlin;
 - Android开源库：RxJava,Okhttp,Glide,EventBus;
 - 数据库相关：MySQL/SQLite
-- 单元测试：leakcanary,MAT
+- 内存泄漏检测：leakcanary,MAT
 
 # 自我评价
 
